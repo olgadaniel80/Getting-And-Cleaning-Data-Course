@@ -1,7 +1,12 @@
 # Code Book
-All variables are taken from train and test environments and merged into one table. 
+All variables are taken from train and test environments and merged into one table.
+
 All variables are belonging to mean or standard deviation.
+
+Time domain signals are prefixed 't' and 'f' is the prefix of frequence domain signals. 
+
 Also added variables subject_id and activity_labels.
+
 ### Non-measured variables are:
 * sublect_id
 * activity_labels
